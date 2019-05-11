@@ -36,4 +36,10 @@ http://www.tw-mpi.com/
 
 https://www.fablabs.io/labs/MakerBar
 
+# Fixed Dialing Number
+
+https://www.quora.com/Can-I-get-a-cellphone-that-will-only-call-certain-numbers
+
+
+
 
