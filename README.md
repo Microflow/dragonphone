@@ -26,5 +26,14 @@ Like a batphone, but better.
 
 ## Person On Charge of each component
 
+# Local Maker Places
+
+## Prototype Shop
+
+http://www.tw-mpi.com/
+
+## Makerbar
+
+https://www.fablabs.io/labs/MakerBar
 
 
